@@ -1,0 +1,60 @@
+# Laboratoriomecanicadesuelos — Leon
+
+> Geotechnical engineering services in Leon, España.
+
+## Services
+- [Aislacion Sismica](https://leon.laboratoriomecanicadesuelos.org/aislacion-sismica/)
+- [Anclajes](https://leon.laboratoriomecanicadesuelos.org/anclajes/)
+- [Calicatas](https://leon.laboratoriomecanicadesuelos.org/calicatas/)
+- [Calicatas Exploratorias](https://leon.laboratoriomecanicadesuelos.org/calicatas-exploratorias/)
+- [Cbr Vial](https://leon.laboratoriomecanicadesuelos.org/cbr-vial/)
+- [Cimentaciones](https://leon.laboratoriomecanicadesuelos.org/cimentaciones/)
+- [Cimentaciones Superficiales](https://leon.laboratoriomecanicadesuelos.org/cimentaciones-superficiales/)
+- [Columnas Grava](https://leon.laboratoriomecanicadesuelos.org/columnas-grava/)
+- [Densidad Cono Arena](https://leon.laboratoriomecanicadesuelos.org/densidad-cono-arena/)
+- [Ensayo Cpt](https://leon.laboratoriomecanicadesuelos.org/ensayo-cpt/)
+- [Ensayo Triaxial](https://leon.laboratoriomecanicadesuelos.org/ensayo-triaxial/)
+- [Ensayos Proctor](https://leon.laboratoriomecanicadesuelos.org/ensayos-proctor/)
+- [Estabilidad Taludes](https://leon.laboratoriomecanicadesuelos.org/estabilidad-taludes/)
+- [Excavaciones Profundas](https://leon.laboratoriomecanicadesuelos.org/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://leon.laboratoriomecanicadesuelos.org/excavaciones-subterraneo/)
+- [Exploracion](https://leon.laboratoriomecanicadesuelos.org/exploracion/)
+- [Geofisica](https://leon.laboratoriomecanicadesuelos.org/geofisica/)
+- [Geotecnia Vial](https://leon.laboratoriomecanicadesuelos.org/geotecnia-vial/)
+- [Granulometria](https://leon.laboratoriomecanicadesuelos.org/granulometria/)
+- [Inyecciones](https://leon.laboratoriomecanicadesuelos.org/inyecciones/)
+- [Laboratorio In Situ](https://leon.laboratoriomecanicadesuelos.org/laboratorio-in-situ/)
+- [Laboratorio Lab](https://leon.laboratoriomecanicadesuelos.org/laboratorio-lab/)
+- [Licuefaccion](https://leon.laboratoriomecanicadesuelos.org/licuefaccion/)
+- [Limites Atterberg](https://leon.laboratoriomecanicadesuelos.org/limites-atterberg/)
+- [Losa De Cimentacion](https://leon.laboratoriomecanicadesuelos.org/losa-de-cimentacion/)
+- [Losas Fundacion](https://leon.laboratoriomecanicadesuelos.org/losas-fundacion/)
+- [Masw](https://leon.laboratoriomecanicadesuelos.org/masw/)
+- [Masw Vs30](https://leon.laboratoriomecanicadesuelos.org/masw-vs30/)
+- [Mejoramiento](https://leon.laboratoriomecanicadesuelos.org/mejoramiento/)
+- [Microzonificacion Sismica](https://leon.laboratoriomecanicadesuelos.org/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://leon.laboratoriomecanicadesuelos.org/monitoreo-excavaciones/)
+- [Muros Contencion](https://leon.laboratoriomecanicadesuelos.org/muros-contencion/)
+- [Pavimento Flexible](https://leon.laboratoriomecanicadesuelos.org/pavimento-flexible/)
+- [Pavimento Rigido](https://leon.laboratoriomecanicadesuelos.org/pavimento-rigido/)
+- [Permeabilidad Campo](https://leon.laboratoriomecanicadesuelos.org/permeabilidad-campo/)
+- [Permeabilidad In Situ](https://leon.laboratoriomecanicadesuelos.org/permeabilidad-in-situ/)
+- [Pilotes](https://leon.laboratoriomecanicadesuelos.org/pilotes/)
+- [Placa De Carga](https://leon.laboratoriomecanicadesuelos.org/placa-de-carga/)
+- [Refraccion Sismica](https://leon.laboratoriomecanicadesuelos.org/refraccion-sismica/)
+- [Resistividad](https://leon.laboratoriomecanicadesuelos.org/resistividad/)
+- [Sismica](https://leon.laboratoriomecanicadesuelos.org/sismica/)
+- [Sondaje Spt](https://leon.laboratoriomecanicadesuelos.org/sondaje-spt/)
+- [Sondajes Spt](https://leon.laboratoriomecanicadesuelos.org/sondajes-spt/)
+- [Taludes](https://leon.laboratoriomecanicadesuelos.org/taludes/)
+- [Triaxial](https://leon.laboratoriomecanicadesuelos.org/triaxial/)
+- [Tuneles Suelo Blando](https://leon.laboratoriomecanicadesuelos.org/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://leon.laboratoriomecanicadesuelos.org/vibrocompactacion/)
+- [Zapatas](https://leon.laboratoriomecanicadesuelos.org/zapatas/)
+
+## Contact
+- Website: https://leon.laboratoriomecanicadesuelos.org/
+
+## About
+This site provides geotechnical engineering services in Leon, España.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
